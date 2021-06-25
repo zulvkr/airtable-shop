@@ -1,3 +1,4 @@
-# Airtable Shop Business Hourse
+# Airtable Shop Business Hour
 
-Exercise consuming REST API from Airtable. This is part of flavio JS bootcamp project, but using nunjucks instead of pug.
+This is a project in Flavio JS bootcamp to exercise consuming REST API from Airtable using Express.
+This is part of flavio JS bootcamp project.
